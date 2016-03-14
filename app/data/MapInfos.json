@@ -1,9 +1,0 @@
-[
-null,
-{"id":1,"expanded":false,"name":"Quiz Game","order":2,"parentId":3,"scrollX":485,"scrollY":465.5},
-{"id":2,"expanded":false,"name":"Quiz Room","order":3,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Start","order":1,"parentId":0,"scrollX":819,"scrollY":465.5},
-{"id":4,"expanded":false,"name":"QuizCave","order":4,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"Quiz Show","order":6,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":6,"expanded":false,"name":"CharacterChoose","order":5,"parentId":1,"scrollX":0,"scrollY":0}
-]
