@@ -1,13 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    rack (1.6.4)
+    rack (2.0.6)
 
 PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  rack
+  rack (= 2.0.6)
+
+RUBY VERSION
+   ruby 2.2.4p230
 
 BUNDLED WITH
-   1.11.2
+   1.17.1
